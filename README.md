@@ -3,6 +3,7 @@ This repository organizes each daily assignment into its own folder. Click a tas
 
 Task1: Data Cleaning & Preprocessing
 Data file: sales_data_sample.csv
+
 Notebook: Task1_DataCleaning.ipynb
 Task2: …
 
