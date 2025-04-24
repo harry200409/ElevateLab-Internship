@@ -1,9 +1,9 @@
-# 🌍 SQL for Data Analysis – Task 3
+#  SQL for Data Analysis – Task 3
 
-## 🎯 Objective
+##  Objective
 
-Objective
 Use SQL to extract, manipulate, and analyze e-commerce sales data, demonstrating proficiency with:
+
 SELECT, WHERE, ORDER BY
 GROUP BY, HAVING
 JOIN types (INNER, LEFT, RIGHT)
@@ -13,7 +13,7 @@ Views
 Indexing
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Database System:** MySQL 
 - **Schema:** Custom "World" database with `Country`, `City`, and `CountryLanguage` tables  
@@ -21,7 +21,7 @@ Indexing
 
 ---
 
-## 🗂 Database Schema
+##  Database Schema
 
 ### Tables:
 - **Country** – Stores country information (e.g., name, code, population, continent)
@@ -30,7 +30,7 @@ Indexing
 
 ---
 
-## 📊 Queries & Features Demonstrated
+##  Queries & Features Demonstrated
 
 ### 1️⃣ Basic Selection, Filtering, Grouping, Ordering
 - Countries with population > 100M
@@ -59,7 +59,7 @@ Indexing
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File | Description |
 |------|-------------|
@@ -70,7 +70,7 @@ Indexing
 
 ---
 
-## 📈 Sample Insights
+##  Sample Insights
 
 - Asia contains the most populous countries globally.
 - India and China have high language diversity.
