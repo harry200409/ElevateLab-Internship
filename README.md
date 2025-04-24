@@ -10,8 +10,7 @@ This repository organizes each daily assignment into its own folder. Click a tas
 2. *[Task2_Data_Visualization](Task2_Data_Visualization)*
    - *Images:*`pic.png`
 
-4. *Task3: …*
-   - *Data file:* Task3_… .csv
-   - *Notebook:* Task3_….ipynb
+3. *[Task3_SQL_for_Data_Analysis](Task3_SQL_for_Data_Analysis)*
+   - *task3_queries.sql*
+   - *schema_and_data. sql*
 
-> *Note:* Each task folder contains exactly one dataset CSV named TaskX_<ShortTitle>.csv and one Jupyter notebook TaskX_<ShortTitle>.ipynb. Ensure no additional CSV files are present.
