@@ -14,3 +14,6 @@ This repository organizes each daily assignment into its own folder. Click a tas
    - *task3_queries.sql*
    - *schema_and_data. sql*
 
+4. *[Task4_Dashboard_Design](Task4_Dashboard_Design)*
+   - *Dashboard_pic.png*
+   - *Task4_Sumary.pptx*
