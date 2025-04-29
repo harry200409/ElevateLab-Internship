@@ -9,8 +9,8 @@ This project involves analyzing sales data using SQL to identify key sales trend
 
 ```
 Task6_Sales_Trend_Analysis/
-├── README.md               # Project documentation
-├── Task6_Sales_Trend_Analysis.sql              # SQL queries for trend analysis
+├── README.md                           # Project documentation
+├── Task6_Sales_Trend_Analysis.sql      # SQL queries for trend analysis
 |__ Task6_Result_table.png              # Image of result of query
 ```
 
