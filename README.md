@@ -22,3 +22,7 @@ This repository organizes each daily assignment into its own folder. Click a tas
    - *Data file: Iris.csv*
    - *Notebook: Task 5_EDA_Iris.ipynb*
    - *Report: Task 5_EDA_Iris_Report.pdf*
+
+6. *[Task6_Sales Trend Analysis](Task6_Sales Trend Analysis)*
+   - *Task6_Sales Trend Analysis.sql*
+   - *Task6_Result_table.png*
