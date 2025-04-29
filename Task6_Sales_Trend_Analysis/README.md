@@ -32,15 +32,19 @@ CREATE TABLE online_sales (
 ### 2. Monthly Revenue & Order Volume Analysis
 
 ```sql
--- Monthly Revenue and Order Volume
 SELECT
   EXTRACT(YEAR FROM order_date) AS year,
   EXTRACT(MONTH FROM order_date) AS month,
   SUM(amount) AS total_revenue,
   COUNT(DISTINCT order_id) AS order_volume
-FROM online_sales
-GROUP BY year, month
-ORDER BY year, month;
+FROM
+  online_sales
+WHERE
+  order_date >= '2023-01-01'
+GROUP BY
+  year, month
+ORDER BY
+  year, month;
 ```
 
 > Use this to identify revenue and order trends over time.
