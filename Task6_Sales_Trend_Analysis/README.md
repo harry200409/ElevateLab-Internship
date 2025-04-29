@@ -1,4 +1,4 @@
-```markdown
+---
 # Task 6: Sales Trend Analysis
 
 This project involves analyzing sales data using SQL to identify key sales trends such as monthly performance, top-selling products, and regional sales distribution.
