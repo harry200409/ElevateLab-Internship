@@ -65,4 +65,3 @@ By executing the above queries, you will obtain insights into:
 These insights can help in making informed business decisions and identifying growth opportunities.
 
 ---
-```
