@@ -1,4 +1,4 @@
-# Task7:Tiny_SQLite_Database_using_Python
+# Task7: Tiny_SQLite_Database_using_Python
 
 This project connects to a small SQLite database and produces a basic sales analysis, including total revenue by category and top products by revenue, using SQL, pandas, and matplotlib.
 
