@@ -20,7 +20,7 @@ Task7_Tiny_SQLite_Database_using_Python/
 
 The dataset is created and inserted programmatically inside the notebook. It consists of two main tables:
 
-### 2. `sales_data.db`
+### Dataset: `sales_data.db`
 
 | Column Name | Type    | Description                         |
 |-------------|---------|-------------------------------------|
