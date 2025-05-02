@@ -8,11 +8,11 @@ This project connects to a small SQLite database and produces a basic sales anal
 
 ```
 Task7_Tiny_SQLite_Database_using_Python/
-├── Task7_Tiny_SQLite_Database_using_Python.py                 # Main Jupyter Notebook (setup, queries, visualization)
-├── sales_data.db                       # Auto-generated SQLite database file
-├── category_revenue.png                # Bar chart: revenue by category
-├── top_products_jan2024.png            # Bar chart: top 3 products by revenue (Jan 2024)
-└── README.md                           # Project description and usage instructions
+├── Task7_Tiny_SQLite_Database_using_Python.py        # Main Jupyter Notebook (setup, queries, visualization)
+├── sales_data.db                                     # Auto-generated SQLite database file
+├── category_revenue.png                              # Bar chart: revenue by category
+├── top_products_jan2024.png                          # Bar chart: top 3 products by revenue (Jan 2024)
+└── README.md                                         # Project description and usage instructions
 ```
 ---
 
