@@ -39,7 +39,6 @@ Sample data is inserted for multiple products and sales across different dates, 
 pip install pandas matplotlib
 ```
 3. Run the script:
-## Launch Jupyter with:
 ```bash
 Task7_Tiny_SQLite_Database_using_Python.py
 ```
