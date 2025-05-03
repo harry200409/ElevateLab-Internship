@@ -26,7 +26,11 @@ This repository organizes each daily assignment into its own folder. Click a tas
 6. *[Task6_Sales_Trend_Analysis](Task6_Sales_Trend_Analysis)*
    - *Task6_Sales Trend Analysis.sql*
    - *Task6_Result_table.png*
+   
 7. *[Task7_Tiny_SQLite_Database_using_Python](Task7_Tiny_SQLite_Database_using_Python)*
    - *Task7_Tiny_SQLite_Database_using_Python.py*
    - *category_revenue.png*
    - *top_products_jan2024.png*
+8. *[Task8_Sales_Dashboard_Design](Task8_Sales_Dashboard_Design)*
+   -  *Task8_Sales_Dashboard_Design.png*
+   -  *Task8_Insights*
